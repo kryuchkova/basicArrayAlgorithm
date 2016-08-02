@@ -33,6 +33,7 @@ Sample Input
 Sample Output
 
 YES
+
 NO
 Explanation
 

@@ -26,15 +26,21 @@ If a student arrives exactly on time , the student is considered to have entered
 Sample Input
 
 2
+
 4 3
+
 -1 -3 4 2
+
 4 2
+
 0 -1 2 1
+
 Sample Output
 
 YES
 
 NO
+
 Explanation
 
 For the first test case, . The professor wants at least  students in attendance, but only  have arrived on time ( and ). Thus, the class is canceled.
